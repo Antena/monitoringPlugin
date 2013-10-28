@@ -1,12 +1,5 @@
 [
 	{
-		"name" : "AppServer",
-		"url" : "http://localhost:9000/",
-		"method" : "GET",
-		"connectiontimeout" : 1000,
-		"readtimeout": 1000,
-	}	
-	{
 		"name" : "Google",
 		"url" : "http://www.google.com/",
 		"method" : "GET",
